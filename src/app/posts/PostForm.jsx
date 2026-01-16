@@ -24,7 +24,11 @@ export const PostForm = () => {
                     name="author"
                     className="border-2 rounded-md text-black w-56 p-2 md:w-2/4 lg:w-110"
                 />
-                <button type="submit" className="bg-blue-500 hover:bg-blue-700 cursor-pointer p-2 text-white rounded-md md:w-36">Add Post</button>
+                <button
+                    type="submit"
+                    className="bg-blue-500 hover:bg-blue-700 cursor-pointer p-2 text-white rounded-md md:w-36 transition-all duration-350 ease-out hover:-translate-0.5">
+                    Add Post
+                </button>
 
             </form>
         </div>
