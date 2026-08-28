@@ -18,7 +18,7 @@ export default function Home() {
 
         <div className='flex flex-col gap-5 flex-3'>
           <p>
-            Heey! This is a full stack project where users can create, edit, delete, and browse posts in a clean
+            Hey! This is a full stack project where users can create, edit, delete, and browse posts in a clean
             and straightforward and responsive way. The idea here is to keep things simple and practical, focusing on a smooth experience
             without overcomplicating the basics. It’s all about building and managing content in a way that just feels right.
           </p>
